@@ -1,1 +1,2 @@
-This is a SPA that is used to solve all the conflicts arise among college student. 
+#BLOG SNIPPET
+This is a basic snippet for frontend of blogging based website.
